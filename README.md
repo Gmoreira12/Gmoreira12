@@ -6,7 +6,7 @@
 - 📂Portfólio: https://portfoliotechggm.com.br/
 - 💻 Foco no desenvolvimento Web.
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="hhttps://github.com/Gmoreira12">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gmoreira12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gmoreira12&layout=compact&langs_count=7&theme=dracula"/>
